@@ -1,0 +1,27 @@
+footer {
+    text-align: left;
+    width: 100%;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer-links {
+    display: flex;
+}
+
+#footer-links li {
+    margin-right: 10px;
+}
+
+#footer-links a,
+#copyright {
+    color: #8e8e8e;
+    font-size: 12px;
+}
+
+#copyright {
+    margin-top: 10px;
+}
